@@ -1,0 +1,1 @@
+Data Source=Eren;Initial Catalog=StokTakipOtomasyonu;Integrated Security=True

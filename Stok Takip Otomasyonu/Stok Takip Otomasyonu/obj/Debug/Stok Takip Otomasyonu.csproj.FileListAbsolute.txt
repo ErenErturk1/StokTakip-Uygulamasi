@@ -1,0 +1,56 @@
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Anasayfa.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Ürün_Ekle.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Ürün_Sil.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Ürün_Listele.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Müşteri_Listele.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Müşteri_Sil.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Müşteri_Güncelle.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Müşteri_Ara.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Ürün_Ara.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Ürün_Güncelle.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Giriş_Ekranı.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Kayıt_Ekranı.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Müşteri_Ekle.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Personel_Ekle.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Personel_Listele.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Personel_Sil.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Personel_Ara.resources
+C:\Users\MONSTER\OneDrive\Belgeler\OneDrive\Belgeler\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Personel_Güncelle.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe.config
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.exe
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\bin\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Anasayfa.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Giriş_Ekranı.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Kayıt_Ekranı.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Müşteri_Ara.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Müşteri_Ekle.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Müşteri_Güncelle.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Müşteri_Listele.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Müşteri_Sil.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Personel_Ara.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Personel_Ekle.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Personel_Güncelle.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Personel_Listele.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Personel_Sil.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Ürün_Ara.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Ürün_Ekle.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Ürün_Güncelle.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Ürün_Listele.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Ürün_Sil.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.exe
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok Takip Otomasyonu.pdb
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Personel_İslemleri_Kabul.resources
+C:\Users\MONSTER\Desktop\Stok Takip Otomasyonu\Stok Takip Otomasyonu\Stok Takip Otomasyonu\obj\Debug\Stok_Takip_Otomasyonu.Personel_İşlemleri.resources
